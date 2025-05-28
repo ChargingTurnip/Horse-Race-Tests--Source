@@ -11,15 +11,15 @@ I was planning on finishing everything first before releasing the mod, but after
 
 
 # Credits:
-snakeandrews - Original creator of Horse Race Tests
+- snakeandrews - Original creator of Horse Race Tests
 
 # -- HRT:S Credits: ------
-ChargingTurnip - Code, Models, Textures, Animations, Maps, Music, and Graphics
-MegaPiemanPHD - Voice Acting
+- ChargingTurnip - Code, Models, Textures, Animations, Maps, Music, and Graphics
+- MegaPiemanPHD - Voice Acting
 
 # -- External Credits: ------
-Spirrwell - FMOD Implementation
-MaestroFenix - VGUI Keypad (Based off work done by SysOp)
+- Spirrwell - FMOD Implementation
+- MaestroFenix - VGUI Keypad (Based off work done by SysOp)
 
 
                SOURCE 1 SDK LICENSE
