@@ -1,4 +1,4 @@
-# Horse Race Tests: Source
+# --- Horse Race Tests: Source ---
 Your favorite Twitter fad now in the Source Engine.
 
 # Known Issues:
@@ -10,14 +10,13 @@ I was planning on finishing everything first before releasing the mod, but after
 
 
 
-# Credits:
-- snakeandrews - Original creator of Horse Race Tests
 
-# -- HRT:S Credits: ------
+# HRT:S Credits:
 - ChargingTurnip - Code, Models, Textures, Animations, Maps, Music, and Graphics
 - MegaPiemanPHD - Voice Acting
 
-# -- External Credits: ------
+# External Credits:
+- snakeandrews - Original creator of Horse Race Tests
 - Spirrwell - FMOD Implementation
 - MaestroFenix - VGUI Keypad (Based off work done by SysOp)
 
