@@ -1,0 +1,111 @@
+// Physics Sounds
+//
+//	NOTE:  CHAN_BODY is used by sounds in many cases, but the code
+//   uses CHAN_STATIC in others, so I didn't specify a channel here
+//  Volume is determined procedurally by the physics code
+//
+
+
+"Announcer.Ready"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/ready.wav"
+}
+
+"Announcer.10"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/10.wav"
+}
+
+"Announcer.9"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/9.wav"
+}
+
+"Announcer.8"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/8.wav"
+}
+
+"Announcer.7"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/7.wav"
+}
+
+"Announcer.6"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/6.wav"
+}
+
+"Announcer.5"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/5.wav"
+}
+
+"Announcer.4"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/4.wav"
+}
+
+"Announcer.3"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/3.wav"
+}
+
+"Announcer.2"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/2.wav"
+}
+
+"Announcer.1"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/1.wav"
+}
+
+"Announcer.0"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/0.wav"
+}
+
+"Announcer.Gun"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"announcer/gun.wav"
+}

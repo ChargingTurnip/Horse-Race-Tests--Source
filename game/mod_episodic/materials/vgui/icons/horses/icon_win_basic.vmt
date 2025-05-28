@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui\icons\horses\icon_win_basic"
+	"$translucent" 1
+	//"$vertexalpha" "1"
+	"$vertexcolor" "1"
+	"$ignorez"     "1"
+	"$no_fullbright" "1"	
+}

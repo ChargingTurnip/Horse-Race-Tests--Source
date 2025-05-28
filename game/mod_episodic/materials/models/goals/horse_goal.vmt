@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Models/goals/horse_goal"
+	"$halflambert" 		"1"
+}

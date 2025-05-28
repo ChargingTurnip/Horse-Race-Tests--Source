@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"Models/horses/two/horse_two"
+	"$blendtintbybasealpha"	"1"
+	"$halflambert" 		"1"
+	"$surfaceprop"		 "flesh"
+}

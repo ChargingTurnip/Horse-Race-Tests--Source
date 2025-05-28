@@ -1,0 +1,161 @@
+"HorsePresets"
+{
+
+// Horse Basic ---------------------------------------------------------
+
+	horseindex.0			"basic"
+	horse.basic.model		"models/horses/horse_basic.mdl"
+	horse.basic.name		"Horse Basic"
+	horse.basic.speed		600
+	horse.basic.bounceparticle	"hunter_projectile_explosion_2f"
+	horse.basic.bouncesound		"Boulder.ImpactSoft"
+	horse.basic.color		"255 255 255"
+	horse.basic.outlinealpha	"255"
+	horse.basic.hullmin.x		-32
+	horse.basic.hullmin.y		-32
+	horse.basic.hullmin.z		0
+	horse.basic.hullmax.x		32
+	horse.basic.hullmax.y		32
+	horse.basic.hullmax.z		72
+	horse.basic.winsound		"Horse.WinBasic"
+	horse.basic.winmusic		"horses/win_music_basic.wav"
+	horse.basic.wingraphic		"vgui/icons/horses/icon_win_basic"
+
+// Doppler Doppler Bay ---------------------------------------------------------
+
+	horseindex.1			"dop"
+	horse.dop.model			"models/horses/horse_doppler.mdl"
+	horse.dop.name			"Doppler Doppler Bay"
+	horse.dop.speed			580
+	horse.dop.swimspeed		601
+	horse.dop.bounceparticle	"hunter_projectile_explosion_2f"
+	horse.dop.bouncesound		"Boulder.ImpactSoft"
+	horse.dop.color			"0 230 245"
+	horse.dop.useoutlinecolor	"1"
+	horse.dop.outlinecolor		"10 240 240"
+	horse.dop.outlinealpha		"255"
+	horse.dop.hullmin.x		-32
+	horse.dop.hullmin.y		-32
+	horse.dop.hullmin.z		0
+	horse.dop.hullmax.x		32
+	horse.dop.hullmax.y		32
+	horse.dop.hullmax.z		72
+	horse.dop.winsound		"Horse.WinBasic"
+	horse.dop.winmusic		"horses/win_music_basic.wav"
+	horse.dop.wingraphic		"vgui/icons/horses/icon_win_basic"
+
+// Rock ---------------------------------------------------------
+
+	horseindex.2			"rock"
+	horse.rock.model		"models/horses/horse_rock.mdl"
+	horse.rock.name			"Rock"
+	horse.rock.speed		580
+	horse.rock.swimspeed		540
+	horse.rock.bounceparticle	"hunter_projectile_explosion_2f"
+	horse.rock.bouncesound		"Boulder.ImpactSoft"
+	horse.rock.color		"115 115 115"
+	horse.rock.useoutlinecolor	"1"
+	horse.rock.outlinecolor		"255 255 255"
+	horse.rock.outlinealpha		"148"
+	horse.rock.hullmin.x		-32
+	horse.rock.hullmin.y		-32
+	horse.rock.hullmin.z		0
+	horse.rock.hullmax.x		32
+	horse.rock.hullmax.y		32
+	horse.rock.hullmax.z		72
+	horse.rock.winsound		"Horse.WinBasic"
+	horse.rock.winmusic		"horses/win_music_basic.wav"
+	horse.rock.wingraphic		"vgui/icons/horses/icon_win_basic"
+
+// Tuna Piano ---------------------------------------------------------
+
+	horseindex.3			"tuna"
+	horse.tuna.model		"models/horses/horse_tuna.mdl"
+	horse.tuna.name			"Tuna Piano"
+	horse.tuna.speed		600
+	horse.tuna.swimspeed		620
+	horse.tuna.bounceparticle	"hunter_projectile_explosion_2f"
+	horse.tuna.bouncesound		"Boulder.ImpactSoft"
+	horse.tuna.color		"120 255 120"
+	horse.tuna.useoutlinecolor	"1"
+	horse.tuna.outlinecolor		"120 255 180"
+	horse.tuna.outlinealpha		"255"
+	horse.tuna.hullmin.x		-32
+	horse.tuna.hullmin.y		-32
+	horse.tuna.hullmin.z		0
+	horse.tuna.hullmax.x		32
+	horse.tuna.hullmax.y		32
+	horse.tuna.hullmax.z		72
+	horse.tuna.winsound		"Horse.WinBasic"
+	horse.tuna.winmusic		"horses/win_music_basic.wav"
+	horse.tuna.wingraphic		"vgui/icons/horses/icon_win_basic"
+
+// Oblique Autumn ---------------------------------------------------------
+
+	horseindex.4			"oblique"
+	horse.oblique.model		"models/horses/horse_autumn.mdl"
+	horse.oblique.name		"Oblique Autumn"
+	horse.oblique.speed		620
+	horse.oblique.swimspeed		595
+	horse.oblique.bounceparticle	"hunter_projectile_explosion_2f"
+	horse.oblique.bouncesound	"Boulder.ImpactSoft"
+	horse.oblique.color		"255 128 0"
+	horse.oblique.useoutlinecolor	"1"
+	horse.oblique.outlinecolor	"255 188 60"
+	horse.oblique.outlinealpha	"255"
+	horse.oblique.hullmin.x		-32
+	horse.oblique.hullmin.y		-32
+	horse.oblique.hullmin.z		0
+	horse.oblique.hullmax.x		32
+	horse.oblique.hullmax.y		32
+	horse.oblique.hullmax.z		72
+	horse.oblique.winsound		"Horse.WinBasic"
+	horse.oblique.winmusic		"horses/win_music_basic.wav"
+	horse.oblique.wingraphic	"vgui/icons/horses/icon_win_basic"
+
+// Mismatch Erroneous ---------------------------------------------------------
+
+	horseindex.5			"error"
+	horse.error.model		"models/horses/horse_mismatch.mdl"
+	horse.error.name		"Mismatch Erroneous"
+	horse.error.speed		590
+	horse.error.swimspeed		640
+	horse.error.bounceparticle	"hunter_projectile_explosion_2f"
+	horse.error.bouncesound		"Boulder.ImpactSoft"
+	horse.error.color		"130 0 160"
+	horse.error.useoutlinecolor	"1"
+	horse.error.outlinecolor	"255 0 255"
+	horse.error.outlinealpha	"200"
+	horse.error.hullmin.x		-32
+	horse.error.hullmin.y		-32
+	horse.error.hullmin.z		0
+	horse.error.hullmax.x		32
+	horse.error.hullmax.y		32
+	horse.error.hullmax.z		72
+	horse.error.winsound		"Horse.WinBasic"
+	horse.error.winmusic		"horses/win_music_basic.wav"
+	horse.error.wingraphic		"vgui/icons/horses/icon_win_basic"
+
+// Two Birds Single ---------------------------------------------------------
+
+	horseindex.6			"two"
+	horse.two.model			"models/horses/horse_two.mdl"
+	horse.two.name			"Two Birds Single"
+	horse.two.speed			650
+	horse.two.swimspeed		570
+	horse.two.bounceparticle	"hunter_projectile_explosion_2f"
+	horse.two.bouncesound		"Boulder.ImpactSoft"
+	horse.two.color			"30 30 30"
+	horse.two.useoutlinecolor	"1"
+	horse.two.outlinecolor		"255 255 255"
+	horse.two.outlinealpha		"100"
+	horse.two.hullmin.x		-32
+	horse.two.hullmin.y		-32
+	horse.two.hullmin.z		0
+	horse.two.hullmax.x		32
+	horse.two.hullmax.y		32
+	horse.two.hullmax.z		72
+	horse.two.winsound		"Horse.WinBasic"
+	horse.two.winmusic		"horses/win_music_basic.wav"
+	horse.two.wingraphic		"vgui/icons/horses/icon_win_basic"
+}

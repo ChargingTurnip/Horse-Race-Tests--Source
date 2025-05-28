@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/straw01"
+	"$bumpmap" "nature/straw01_bump"
+	"$surfaceprop" "dirt"
+	"%keywords" "hrts"
+
+        	"$detail" "detail\brush_detail_01"
+	"$detailscale" "0.5"
+	"$detailblendfactor" "2"
+	"$detailblendmode" 0
+}

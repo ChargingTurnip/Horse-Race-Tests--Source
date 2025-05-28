@@ -1,0 +1,39 @@
+// Physics Sounds
+//
+//	NOTE:  CHAN_BODY is used by sounds in many cases, but the code
+//   uses CHAN_STATIC in others, so I didn't specify a channel here
+//  Volume is determined procedurally by the physics code
+//
+
+
+"Horse.WinBasic"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"horses/win_basic.wav"
+}
+
+"Horse.HurtBasic"
+{
+	"pitch"			"90, 110"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"wave"			"horses/horse_hurt_basic.wav"
+}
+
+"Horse.DeathBasic"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"wave"			"horses/horse_death_basic.wav"
+}
+
+//"Horse.WinMusicBasic"
+//{
+//	"pitch"			"100"
+//	"volume"		"1"
+//	"soundlevel"		"SNDLVL_NONE"
+//	"wave"			"horses/win_music_basic.wav"
+//}

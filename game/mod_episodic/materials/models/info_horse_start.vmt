@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"			"Models/info_horse_start"
+	"$translucent" "1"
+}

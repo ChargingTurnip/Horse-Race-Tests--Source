@@ -1,0 +1,15 @@
+// Physics Sounds
+//
+//	NOTE:  CHAN_BODY is used by sounds in many cases, but the code
+//   uses CHAN_STATIC in others, so I didn't specify a channel here
+//  Volume is determined procedurally by the physics code
+//
+
+
+"UI.Camera"
+{
+	"pitch"			"100"
+	"volume"		"1"
+	"soundlevel"		"SNDLVL_NONE"
+	"wave"			"camera.wav"
+}
